@@ -1,0 +1,4 @@
+cert.crt
+cert.key
+*.sqlite3
+.env
